@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/namasayapermana/AndroidStudioProjects/AngkaBahasaJepang/app/src/main/res/layout/activity_keluar.xml" value="0.18931159420289856" />
+        <entry key="..\:/Users/namasayapermana/AndroidStudioProjects/AngkaBahasaJepang/app/src/main/res/layout/activity_lets_play.xml" value="0.18931159420289856" />
+        <entry key="..\:/Users/namasayapermana/AndroidStudioProjects/AngkaBahasaJepang/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/namasayapermana/AndroidStudioProjects/AngkaBahasaJepang/app/src/main/res/layout/activity_tentang.xml" value="0.25" />
+        <entry key="..\:/Users/namasayapermana/AndroidStudioProjects/AngkaBahasaJepang/app/src/main/res/layout/item_gambar_adapter.xml" value="0.1331521739130435" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>
